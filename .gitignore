@@ -1,0 +1,10 @@
+3D_CAD/
+9LedCluster-backups/
+Output/
+?auto_saved_files?
+fp-info-cache
+9LedCluster_Silkscreen_and_Outlines.jpg
+*.step
+*.kicad_prl
+*.lck
+
